@@ -9,7 +9,12 @@
 - AI 기반 알고리즘으로 공정 계획을 만들어 csv 파일 제출
 따라서, 유전 알고리즘과 DQN을 기반으로 한 모델을 각각 만들고, 두 모델에 대한 학습을 진행했습니다.
 
-## 코드 설명
+## 파일
+1. Input Data : 입력 데이터입니다.
+2. Process_Models : 실질적인 코드가 들어 있습니다.
+3, 4. 테스트 케이스 모음, 테스트 케이스 백업 : 직접 테스트하여 본 여러가지 이력들이 남아 있습니다.
+
+## 코드 설명 (Process_Models 내부 코드)
 1. Process_Optimization : 유전 알고리즘을 기반으로, 기본 Baseline 파일을 응용한 모델
 2. Process_Optimization_with_Keras : 위 모델을 Keras로 새롭게 구현한 모델
 3. DQN_Models : DQN 알고리즘을 기반으로 새롭게 설계한 모델
