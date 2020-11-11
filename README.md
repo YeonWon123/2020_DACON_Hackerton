@@ -1,6 +1,6 @@
 # 2020_DACON_Hackerton
 2020 DACON 블록 공정 해커톤 프로젝트입니다! (with 정다운, 심효민)
-https://dacon.io/competitions/official/235612/overview/
+대회 사이트 : https://dacon.io/competitions/official/235612/overview/
 
 ## 목적
 각 데이터는 주어져 있으며, 언제 공장을 가동하고 멈출지, 그리고 검사를 할지를 판단하는 모델을 학습하는 것이 주목적입니다.
